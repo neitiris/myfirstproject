@@ -50,7 +50,7 @@ div.ssil
 	margin-left: 10px; 
 	margin-top: 20px;
 	float: left;
-	width: 25%;
+	width: 30%;
 	height:30px;
 	margin-bottom: 15px;
 }
@@ -63,7 +63,7 @@ div.ssil
 .val {
   width: 100%;
   height: 10px;
-  background: #ddd;
+  background: gray;
   margin-bottom: 20px;
 }
 .val-box {
@@ -78,13 +78,16 @@ div.ssil
 a
 {
 	text-decoration: none;
+	padding: 10px;
 }
 div.block h3
 {
-	color:blue;
+	color:blue;	
 } 																																		
 
 div.contacts
 {
-	width: 30%;
+	margin-top: 7px;
+	width: 3%;			
 }
+

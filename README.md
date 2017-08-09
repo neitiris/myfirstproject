@@ -1,3 +1,3 @@
 # myfirstproject
 
-## Vlad will add some description later.
+Закоментене то сирний мат, ще гратися буду
