@@ -1,0 +1,42 @@
+nav
+{
+		text-align: center;
+}
+header 
+{
+	border-style: solid;
+    border-width: 2px;
+	background-color: gray;
+	text-align: center; 
+
+}
+h1
+{
+    color: maroon;
+    margin-left: 40px;
+}
+body
+{
+/*border-left: 3px solid gray;*/
+background-color: lightgrey;
+} 
+div.block
+{
+	text-align: right;
+	float: left; width: 25%;
+
+
+}
+div
+{
+	float:left;
+}
+div.mypic
+{
+	    float: left; width: 34%;
+	     border-left:  2px solid black;
+}
+div.ssil
+{
+	 float: left; width: 33%;
+}
