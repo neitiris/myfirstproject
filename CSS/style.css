@@ -22,6 +22,7 @@ header
 	text-align: center; 
 	border-top: 1px solid gray;
 	border-bottom: 1px solid gray;
+	position: relative;	
 
 }
 
@@ -87,7 +88,31 @@ div.block h3
 
 div.contacts
 {
-	margin-top: 7px;
+	margin-left: 35px;	
+	margin-top: 20px;
 	width: 3%;			
+}
+div.contacts2
+{
+	margin-left: 4px;
+	font-size: 120%;
+}
+
+.divider-line
+{
+	position: absolute;
+	top: 39px;
+	width: 100%;
+	border-top:1px solid black;
+	z-index: 1;
+}	
+
+.centered-header
+{
+	width: 200px;
+    margin: 22px auto;
+    background-color: white;
+    z-index: 4;
+    position: relative;
 }
 
