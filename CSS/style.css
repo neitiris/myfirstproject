@@ -5,7 +5,7 @@ html
 	margin-left: 150px;
 	margin-right: 200px;
 	padding: 10px; 
-	background: white;
+	background: gray;
 	font-style: italic;
 }
 body
@@ -56,11 +56,11 @@ div.ssil
 }
 .val {
   width: 300%;
-  height: 16px;
-  background: gray;
+  height: 9px;
+  background: orange;
 }
 .val-box {
-  height: 16px;
+  height: 9px;
   background: blue;
 }
 .round {
@@ -128,17 +128,47 @@ div.Expertise
 }
 div.skills
 {
-
+	background-image: 
 	margin-top: 20px;
 	width: 50%;
 }
 div.block2 h3
 {
-	color:blue;
+	color: blue;
 	padding: 3px;	
 }
 progress
 {
 	width: 250%;
-	background:
+	background: gray;
 } 
+div.right
+{
+	border-left: 1px solid gray;
+}
+div.Experience
+{
+	margin-top: 20px;
+	width: 1150px;
+}
+div.else3
+{
+	margin-right: 5px;
+	text-align: right;
+}
+div.chronology
+{
+	margin-left: 15px;
+}
+div.years
+{
+	width: 300px;
+	text-decoration-color: white;
+
+	text-align: center;
+}
+div.info
+{
+	margin-left: 50px;
+	width: 600px;
+}
